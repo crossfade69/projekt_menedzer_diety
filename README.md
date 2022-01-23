@@ -1,4 +1,3 @@
-# projekt_menedzer_diety
 # Menedżer diety
 Program ma na celu dostosować użytkownikowi na podstawie jego metryki (waga, wzrost, wiek, styl życia itd.) dzienne zapotrzebowanie składników odżywczych w celu zadbania o jego zdrowie. Ma to mieć zastosowanie w użytku codziennym, jako aplikacja pomagająca utrzymać daną dietę.
 Aby tego dokonać, program wykonuje różnego rodzaju obliczenia na podstawie wprowadzonych przez użytkownika danych, takie jak obliczenie dziennego zapotrzebowania. Program pozwala też na sortowanie bazy danych (listy potraw, z przypisanymi wartościami odżywczymi oraz czy jest to danie wegetariańskie lub wegańskie) dołączonej do programu, zapisanej w formacie csv, a także resetowanie aktualnego stanu spożycia wraz z kolejnym dniem.
